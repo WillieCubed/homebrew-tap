@@ -34,7 +34,9 @@ brew untap WillieCubed/tap              # remove this tap entirely
 
 ## Available formulae
 
-_None yet._
+- [`claude-lms`](Formula/claude-lms.rb) — run [Claude Code](https://claude.com/claude-code)
+  against local models in [LM Studio](https://lmstudio.ai).
+  `brew install WillieCubed/tap/claude-lms`
 
 ## How this tap is maintained
 
