@@ -1,8 +1,8 @@
 class DiskJanitor < Formula
   desc "Stop git worktrees duplicating build artifacts; sweep junk on a schedule"
   homepage "https://github.com/WillieCubed/disk-janitor"
-  url "https://github.com/WillieCubed/disk-janitor/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "8f4a616f8f1affcf541ea6177803c11da01f6edcd7e619196c1bc53cb8719d25"
+  url "https://github.com/WillieCubed/disk-janitor/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "b214542076c7f9f897b2d3e026e64cc39eb4101a59639f7fa0006061a58889e2"
   license "MIT"
   head "https://github.com/WillieCubed/disk-janitor.git", branch: "main"
 
