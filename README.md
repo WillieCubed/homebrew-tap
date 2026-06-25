@@ -37,6 +37,9 @@ brew untap WillieCubed/tap              # remove this tap entirely
 - [`claude-lms`](Formula/claude-lms.rb) — run [Claude Code](https://claude.com/claude-code)
   against local models in [LM Studio](https://lmstudio.ai).
   `brew install WillieCubed/tap/claude-lms`
+- [`disk-janitor`](Formula/disk-janitor.rb) — stop git worktrees from eating your disk by
+  deduplicating build artifacts and sweeping junk on a schedule.
+  `brew install WillieCubed/tap/disk-janitor`
 
 ## How this tap is maintained
 
