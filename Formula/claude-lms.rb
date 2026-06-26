@@ -3,8 +3,8 @@ class ClaudeLms < Formula
 
   desc "Run Claude Code against local models in LM Studio"
   homepage "https://github.com/WillieCubed/claude-lms"
-  url "https://github.com/WillieCubed/claude-lms/archive/refs/tags/v0.4.0.tar.gz"
-  sha256 "3d4816a00f32978416e5f430aff1c91a91742c4cb67ddb4cac1480f292320157"
+  url "https://github.com/WillieCubed/claude-lms/archive/refs/tags/v0.5.0.tar.gz"
+  sha256 "6c22951c73de41b79fd8a0265ff63bf4e90b0081581ff1e679637469e9595c40"
   license "MIT"
   head "https://github.com/WillieCubed/claude-lms.git", branch: "main"
 
